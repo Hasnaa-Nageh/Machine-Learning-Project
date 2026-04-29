@@ -88,9 +88,3 @@ pain_dataset_200P_4hz.csv
 ```
 
 ---
-
-## Author
-- **Name:** Hasnaa Nageh
-- **Course:** Machine Learning
-```
----
