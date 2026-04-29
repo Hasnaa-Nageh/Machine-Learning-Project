@@ -86,5 +86,3 @@ pain_dataset_200P_4hz.csv
 ├── pain_dataset_200P_4hz.csv  ← Dataset
 ├── README.md                  ← This file
 ```
-
----
